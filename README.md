@@ -37,3 +37,7 @@
 <p align="left">☑Criação de modelagem de modelos relacionais e lógicos: https://app.diagrams.net</p>
 
 ###
+
+<p align="left">☑Curso Udemy: Introdução a Banco de Dados e Linguagem SQL (PostgreSQL): https://www.udemy.com/share/1038703@_2-qndlHpjZWPxo8IpSK3drQcxnLWdFlm2QyKnrVUCEZ3cC7qDhIDjc-2naNup47fw==/</p>
+
+###
